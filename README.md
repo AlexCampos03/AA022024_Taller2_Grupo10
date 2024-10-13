@@ -4,7 +4,7 @@
 
 # Docente: Enmanuel Amaya Araujo
 
-#Estudiantes:
+# Estudiantes:
 MEJIA HERNADEZ, SALVADOR MARCELO, 00072020
 
 MERINO CHAVEZ, CHRISTIAN ALEXIS, 00002521
