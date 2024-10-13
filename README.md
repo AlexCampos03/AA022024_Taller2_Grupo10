@@ -1,8 +1,8 @@
 # AA022024_Taller2_Grupo10
 
-#Taller 2 Análisis de Algoritmos
+# Taller 2 Análisis de Algoritmos
 
-#Docente: Enmanuel Amaya Araujo
+# Docente: Enmanuel Amaya Araujo
 
 #Estudiantes:
 MEJIA HERNADEZ, SALVADOR MARCELO, 00072020
